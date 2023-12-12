@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "fileName": "KeyboardHook.dll",
+  "functionName": "Initialize",
+  "autoRun": true
+}
